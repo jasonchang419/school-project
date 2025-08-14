@@ -3,3 +3,4 @@ bananas
 cherries
 dragon fruits
 figs # add another line to fruits.txt
+figs
